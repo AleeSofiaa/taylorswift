@@ -1,5 +1,5 @@
 Página inicial de THE ERAS TOUR y TAYLOR'S VERSION 
-Cuenta regresiva que despues se va a configurar con JS
+Activar modo claro u oscuro
 Historia de Taylor Versión
 Albumnes regrabados de Taylor Versión 
 Carrusel de video Taylor Versión (ultimos videos de ella)
